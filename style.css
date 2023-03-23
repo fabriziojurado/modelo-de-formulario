@@ -1,0 +1,106 @@
+* {
+    margin: 0;
+    padding: 0px;
+    font-family: 'Times New Roman', Times, serif
+}
+
+section {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+    width: 100%;
+    background-position: center;
+    background-size: center;
+    background-image: url("images.jpg");
+   
+
+}
+
+
+
+.formato {
+    position: relative;
+    width: 650px;
+    height: 600px;
+    background: transparent;
+    border: 6px solid azure;
+    display: flex;
+    justify-content: center;
+    
+}
+
+h1 {
+    font-size: 35px;
+    color: black;
+    text-align: center;
+    margin-top: 400;
+
+}
+
+h2 {
+    color: black;
+
+
+}
+
+button {
+    width: 100%;
+    height: 40px;
+    border-radius: 40px;
+    background: rgb(24, 126, 126);
+    border: none;
+    outline: none;
+    cursor: pointer;
+    font-size: 1em;
+    font-weight: 500;
+    color: cyan;
+}
+
+.Link {
+    margin: 0;
+    font-size: .9em;
+    color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.Nombre {
+
+    font-weight: black;
+
+    text-align: center;
+}
+
+.Apellido {
+
+    font-weight: black;
+
+    text-align: center;
+
+}
+
+.Telefono {
+
+    font-weight: black;
+
+    text-align: center;
+}
+
+.E-mail {
+
+    font-weight: black;
+
+    text-align: center;
+}
+
+.Mensaje {
+
+    font-weight: black;
+
+    text-align: center;
+
+
+
+
+}
